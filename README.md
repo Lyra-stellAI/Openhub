@@ -1,4 +1,4 @@
-# Openhub
+# Openradish AI 
 
 **The AI Community** — A Reddit-style platform for AI enthusiasts, researchers, and practitioners.
 
