@@ -1,7 +1,7 @@
 # Openradish AI 
 
 **The AI Community** — A Reddit-style platform for AI enthusiasts, researchers, and practitioners.
-
+Demo: https://lyra-stellai.github.io/OpenRadish/index.html
 ## Features
 
 - **Community-based discussions** — Browse communities (h/MachineLearning, h/LLMs, h/AIResearch, etc.)
